@@ -81,10 +81,6 @@ Open the `Product_Performance_Analysis.ipynb` notebook and execute the cells to 
 
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request for any improvements or additional features.
 
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## **Acknowledgments**
 
 - The dataset used in this project is provided by [Kaggle](https://www.kaggle.com/).
