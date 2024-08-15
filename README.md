@@ -46,7 +46,7 @@ To run the analysis, follow these steps:
 
 4. **Download the dataset:**
 
-   - Download the dataset from [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data).
+   - Download the dataset from [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis).
    - Place the CSV files in the `data/` directory.
 
 ## **Usage**
@@ -57,7 +57,7 @@ Run the Jupyter notebook to perform the analysis:
 jupyter notebook
 ```
 
-Open the `Product_Performance_Analysis.ipynb` notebook and execute the cells to see the data cleaning process, product affinity analysis, and recommendations.
+Open the `Product_P&A.ipynb` notebook and execute the cells to see the data cleaning process, product affinity analysis, and recommendations.
 
 ### **Main Steps:**
 
