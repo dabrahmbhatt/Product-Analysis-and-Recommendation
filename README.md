@@ -57,7 +57,7 @@ Run the Jupyter notebook to perform the analysis:
 jupyter notebook
 ```
 
-Open the `Product_P&A.ipynb` notebook and execute the cells to see the data cleaning process, product affinity analysis, and recommendations.
+Open the `Product_A&R.ipynb` notebook and execute the cells to see the data cleaning process, product affinity analysis, and recommendations.
 
 ### **Main Steps:**
 
